@@ -1,0 +1,18 @@
+[submodule "skills/superpowers"]
+	path = skills/superpowers
+	url = https://github.com/obra/superpowers
+[submodule "skills/agent-skills"]
+	path = skills/agent-skills
+	url = https://github.com/vercel-labs/agent-skills
+[submodule "skills/openai-skills"]
+	path = skills/openai-skills
+	url = https://github.com/openai/skills
+[submodule "skills/vercel-agent-skills"]
+	path = skills/vercel-agent-skills
+	url = https://github.com/vercel-labs/agent-skills
+[submodule "skills/anthropics-skills"]
+	path = skills/anthropics-skills
+	url = https://github.com/anthropics/skills
+[submodule "skills/antigravity-awesome-skills"]
+	path = skills/antigravity-awesome-skills
+	url = https://github.com/sickn33/antigravity-awesome-skills
