@@ -47,8 +47,7 @@ Para traer los últimos cambios desde los repositorios originales:
 git submodule update --remote --merge
 git commit -m "chore: update submodules"
 git push
-
-
+```
 
 
 **Notas**
