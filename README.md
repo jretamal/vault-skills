@@ -8,7 +8,6 @@ Repositorio que centraliza distintos conjuntos de *skills* como submódulos Git.
 
 **Submódulos incluidos**
 - `skills/superpowers` -> `https://github.com/obra/superpowers`
-- `skills/agent-skills` -> `https://github.com/vercel-labs/agent-skills`
 - `skills/openai-skills` -> `https://github.com/openai/skills`
 - `skills/vercel-agent-skills` -> `https://github.com/vercel-labs/agent-skills`
 - `skills/anthropics-skills` -> `https://github.com/anthropics/skills`
